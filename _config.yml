@@ -1,6 +1,6 @@
 title: Sanuri Adithya
-logo: ![D.A.S.Adithya]/images
-/D.A.S.Adithya.jpeg
+logo: ![D.A.S.Adithya](/images
+/D.A.S.Adithya.jpeg)
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
