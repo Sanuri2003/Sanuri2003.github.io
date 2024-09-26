@@ -7,7 +7,7 @@
 - 						       		
 - 	 			        		
 - 
-![Education Qualification][(images/Education Qualification.jpg)]
+![image alt](https://github.com/Sanuri2003/Sanuri2003.github.io/blob/0b7a41a4d878ad852bdc02b8f8982f97faa9a74e/images/Education%20Qualification.jpg)
 
 ## Work Experience
 *
