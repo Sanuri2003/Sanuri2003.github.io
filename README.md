@@ -7,7 +7,7 @@
 - 						       		
 - 	 			        		
 - 
-! [Education Qualification](images/Education Qualification.jpg)
+![Education Qualification][(images/Education Qualification.jpg)]
 
 ## Work Experience
 *
