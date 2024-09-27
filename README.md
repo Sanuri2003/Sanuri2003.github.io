@@ -54,7 +54,8 @@
 
 #### Currently an undergraduate student working toward a Bachelor of Science (Hons) in Biotechnology, having started in March 2024. I am focusing on cutting-edge biotechnology techniques and applications that will prepare me for a career in research and development.
                		 
-![Education%20Qualification](https://github.com/Sanuri2003/Sanuri2003.github.io/blob/8a94db98ef70cdd09f91bc40671b604465dcc43e/images/Education%20Qualification.jpg)
+
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ## Work Experience
 
@@ -67,14 +68,11 @@
 #### * English Paper Marking: Gained practical experience in marking English examination papers for students in grades 6 to 11, helping improve their language and comprehension skills.
 
 ## Other Professional Qualifications
-*
--
+
+#### While I don’t currently hold additional professional qualifications outside of my academic pursuits, I am continuously seeking opportunities to expand my knowledge and professional capabilities in fields related to Biotechnology.
 
 ## Projects
-### 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using *Python*. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+#### While no specific biotechnology projects have been outlined yet, my academic background has allowed me to work on team-based projects, both in education and extracurricular activities, which have helped me refine my problem-solving and analytical thinking skills. I look forward to undertaking hands-on projects during my current degree progra 
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
@@ -83,7 +81,6 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 Used *Matlab* to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Skills
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
