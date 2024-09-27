@@ -6,10 +6,51 @@
 
 ## Educational Qualifications
 
-##### - Secondary Education:
-               		
-- 	 			        		
-- 
+### - Secondary Education:
+
+#### Rathnavali Balika Vidyalaya Gampaha:
+
+#### Biological Sciences Stream (English Medium): Completed this program from September 2020 to January 2023, a solid foundation in biological sciences, preparing me for future academic pursuits in Biotechnology.
+
+#### Bilingual Studies: Between November 2015 and December 2019, I studied subjects in both Sinhala and English, further strengthening my ability to communicate complex scientific topics in multiple languages.
+
+#### Active participant in school clubs and societies, including:
+
+- Photographic Club (2016/2017)
+
+- Table Tennis Association (2016/2018)
+
+- English Speakers’ Club (2017/2019)
+
+- Junior Western Band (2017/2019)
+
+
+#### Vihara Mahadevi Balika Vidyalaya:
+
+#### Bilingual Studies from January 2014 to November 2015, continuing to develop my academic skills in both Sinhala and English.
+
+#### Actively involved in extracurricular activities:
+
+- Eastern Choir (2014/2015)
+
+- Western Choir (2014/2015)
+
+- Badminton Association (2014/2015)
+
+- Health Society (2014/2015)
+
+
+#### Parakrama National School Gampaha:
+
+#### Completed my Primary Education from January 2009 to January 2014, during which I was a member of the Choir and the Scouts' Association.
+
+
+### - Higher Education:
+
+#### Sri Lanka Institute of Information Technology:
+
+#### Currently an undergraduate student working toward a Bachelor of Science (Hons) in Biotechnology, having started in March 2024. I am focusing on cutting-edge biotechnology techniques and applications that will prepare me for a career in research and development.
+               		 
 ![Education%20Qualification](https://github.com/Sanuri2003/Sanuri2003.github.io/blob/8a94db98ef70cdd09f91bc40671b604465dcc43e/images/Education%20Qualification.jpg)
 
 ## Work Experience
