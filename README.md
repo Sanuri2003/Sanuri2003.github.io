@@ -1,10 +1,13 @@
 # About Me
 
-#### 
+#### I am Sanuri Adithya Dunu Arachchi, a highly motivated individual with a strong passion for Biological Sciences, encompassing fields like Zoology, Botany, Microbiology, and the laboratory technologies associated with them. I am currently pursuing my Bachelor of Science (Hons) in Biotechnology at the Sri Lanka Institute of Information Technology. My enthusiasm for life sciences drives me toward a career where I can make meaningful contributions to advancing scientific knowledge. I believe that the future will be shaped by these disciplines, and I am committed to playing an active role in that evolution. I am eager to continue learning and growing within the scientific community while honing my skills for future research and professional endeavors.
+
+
 
 ## Educational Qualifications
 
-- 						       		
+- Secondary Education:
+               		
 - 	 			        		
 - 
 ![Education%20Qualification](https://github.com/Sanuri2003/Sanuri2003.github.io/blob/8a94db98ef70cdd09f91bc40671b604465dcc43e/images/Education%20Qualification.jpg)
