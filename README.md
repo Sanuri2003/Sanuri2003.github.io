@@ -57,13 +57,14 @@
 ![Education%20Qualification](https://github.com/Sanuri2003/Sanuri2003.github.io/blob/8a94db98ef70cdd09f91bc40671b604465dcc43e/images/Education%20Qualification.jpg)
 
 ## Work Experience
-* I have gained valuable experience through various academic and volunteer opportunities, which include:
 
-Collaborative Projects: Worked closely with teams to successfully achieve project goals, demonstrating effective teamwork and communication skills.
+#### I have gained valuable experience through various academic and volunteer opportunities, which include:
 
-Assistance with Educational Materials: Provided support in typing and proofreading English teaching materials, ensuring accuracy and clarity for student learning.
+#### * Collaborative Projects: Worked closely with teams to successfully achieve project goals, demonstrating effective teamwork and communication skills.
 
-English Paper Marking: Gained practical experience in marking English examination papers for students in grades 6 to 11, helping improve their language and comprehension skills.
+#### * Assistance with Educational Materials: Provided support in typing and proofreading English teaching materials, ensuring accuracy and clarity for student learning.
+
+#### * English Paper Marking: Gained practical experience in marking English examination papers for students in grades 6 to 11, helping improve their language and comprehension skills.
 
 ## Other Professional Qualifications
 *
