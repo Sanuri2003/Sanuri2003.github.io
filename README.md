@@ -91,7 +91,11 @@
 #### * English Writing: Skilled in writing English literary text appreciations and other creative compositions, enhancing my ability to interpret and analyze scientific literature.
 
 ## Hobbies
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+#### 1. Playing badminton
+#### 2. Chess
+
+
+
 
 
 ## Downloadable Resume   
