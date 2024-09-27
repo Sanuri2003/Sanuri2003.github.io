@@ -94,6 +94,8 @@
 #### 1. Playing badminton
 #### 2. Chess
 
+![Hobby](https://github.com/Sanuri2003/Sanuri2003.github.io/blob/main/images/Education%20Qualification.jpg?raw=true)
+
 
 
 
