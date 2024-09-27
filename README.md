@@ -94,7 +94,7 @@
 #### 1. Playing badminton
 #### 2. Chess
 
-![Hobby](https://github.com/Sanuri2003/Sanuri2003.github.io/blob/main/images/Hobby.jpg?raw=true)
+![Hobby](https://github.com/Sanuri2003/Sanuri2003.github.io/blob/main/images/Hobby.jpeg?raw=true)
 
 
 ## Downloadable Resume   
