@@ -25,6 +25,7 @@
 - Junior Western Band (2017/2019)
 
 
+
 #### Vihara Mahadevi Balika Vidyalaya:
 
 #### Bilingual Studies from January 2014 to November 2015, continuing to develop my academic skills in both Sinhala and English.
@@ -40,9 +41,11 @@
 - Health Society (2014/2015)
 
 
+
 #### Parakrama National School Gampaha:
 
 #### Completed my Primary Education from January 2009 to January 2014, during which I was a member of the Choir and the Scouts' Association.
+
 
 
 ### - Higher Education:
