@@ -97,7 +97,7 @@
 ![Hobby](https://github.com/Sanuri2003/Sanuri2003.github.io/blob/main/images/Hobby.jpeg?raw=true)
 
 ## Downloadable Resume   
-- ![HS24510007_Dunu Arachchige Sanuri Adithya.pdf]
+- https://mysliit-my.sharepoint.com/:b:/g/personal/hs24510007_my_sliit_lk/EdW7a6B29bBMia26PsJ3V2cBd7SJZU14iJ-cj6x1b6XLhQ?e=61ODrh
 ##  Contact details
 ### Email Address
 - hs24510007@my.sliit.lk
