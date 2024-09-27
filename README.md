@@ -6,7 +6,7 @@
 
 ## Educational Qualifications
 
-- Secondary Education:
+##### - Secondary Education:
                		
 - 	 			        		
 - 
