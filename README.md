@@ -96,10 +96,9 @@
 
 ![Hobby](https://github.com/Sanuri2003/Sanuri2003.github.io/blob/main/images/Hobby.jpeg?raw=true)
 
-
 ## Downloadable Resume   
 -
 ##  Contact details
 ### Email Address
--
+- hs24510007@my.sliit.lk
 
