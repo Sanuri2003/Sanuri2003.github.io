@@ -59,7 +59,7 @@
 
 ## Work Experience
 
-#### I have gained valuable experience through various academic and volunteer opportunities, which include:
+### I have gained valuable experience through various academic and volunteer opportunities, which include:
 
 #### * Collaborative Projects: Worked closely with teams to successfully achieve project goals, demonstrating effective teamwork and communication skills.
 
@@ -74,17 +74,21 @@
 ## Projects
 #### While no specific biotechnology projects have been outlined yet, my academic background has allowed me to work on team-based projects, both in education and extracurricular activities, which have helped me refine my problem-solving and analytical thinking skills. I look forward to undertaking hands-on projects during my current degree progra 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used *Matlab* to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-
 ## Skills
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
 
+### I possess a wide array of skills that are valuable for both academic and professional environments:
+
+#### * Proficiency in Microsoft Office: Advanced in Word, Excel, and PowerPoint, essential tools for presenting and documenting scientific research.
+
+#### * Effective Communication: I am skilled in conveying complex information in a clear and concise manner, both verbally and in writing.
+
+#### * Time Management: Excellent at managing multiple tasks simultaneously, ensuring deadlines are met without compromising on quality.
+
+#### * Detail-Oriented: I approach tasks with precision and a strong work ethic, particularly important for scientific research and documentation.
+
+#### * Teamwork: Comfortable working in a collaborative environment, contributing positively to group dynamics while respecting diverse viewpoints.
+
+#### * English Writing: Skilled in writing English literary text appreciations and other creative compositions, enhancing my ability to interpret and analyze scientific literature.
 
 ## Hobbies
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
