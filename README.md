@@ -55,7 +55,7 @@
 #### Currently an undergraduate student working toward a Bachelor of Science (Hons) in Biotechnology, having started in March 2024. I am focusing on cutting-edge biotechnology techniques and applications that will prepare me for a career in research and development.
                		 
 
-![Education Qualification(images/Education Qualification.jpg)]
+![Education Qualification](https://github.com/Sanuri2003/Sanuri2003.github.io/blob/main/images/Education%20Qualification.jpg?raw=true)
 
 ## Work Experience
 
